@@ -1,0 +1,64 @@
+{
+  "adverts": [
+    {
+      "name": "BikeBans",
+      "sale": true,
+      "price": 100.00,
+      "photo": "gafas1.png",
+      "tags": ["lifestyle", "work"]
+    },
+    {
+      "name": "Carrera-tx1000",
+      "sale": false,
+      "price": 50.00,
+      "photo": "gafas2.png",
+      "tags": ["lifestyle"]
+    },
+    {
+      "name": "Glasses for teachers",
+      "sale": true,
+      "price": 70.00,
+      "photo": "gafas3.png",
+      "tags": ["lifestyle","work"]
+    },
+    {
+      "name": "THE RAY-BANS!",
+      "sale": true,
+      "price": 250.00,
+      "photo": "gafas4.png",
+      "tags": ["lifestyle","motor"]
+    }
+    ,
+    {
+      "name": "BartoloGlasses",
+      "sale": false,
+      "price": 1000.00,
+      "photo": "bartolo.png",
+      "tags": ["lifestyle"]
+    }
+    ,
+    {
+      "name": "The Morpheus!",
+      "sale": true,
+      "price": 3000.00,
+      "photo": "morpheo.png",
+      "tags": ["motor"]
+    }
+    ,
+    {
+      "name": "Male teacher",
+      "sale": true,
+      "price": 350.00,
+      "photo": "lectura.png",
+      "tags": ["lifestyle"]
+    }
+    ,
+    {
+      "name": "Gafas de Playa",
+      "sale": true,
+      "price": 150.00,
+      "photo": "gafas5.png",
+      "tags": ["lifestyle","work"]
+    }
+  ]
+}
