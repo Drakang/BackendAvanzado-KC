@@ -28,6 +28,9 @@ Drops Adverts DB and loads placeholder data from `initialAdverts.json`
 
 ---
 
+![image](https://user-images.githubusercontent.com/103906418/206923543-92b9a955-5812-4c67-a9e6-40a1465632f9.png)
+
+
 ## API Routes
 
 ## `You will need to use `Postman` or any other similar platforms.`
