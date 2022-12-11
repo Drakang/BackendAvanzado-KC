@@ -1,0 +1,27 @@
+{
+	"Welcome to": "Welcome to",
+	"Featured Ads": "Featured Ads",
+	"Mouse": {
+		"one": "Mouse",
+		"other": "Mouse"
+	},
+	"Price": "Price",
+	"thats an example": "thats an example",
+	"Home": "Home",
+	"About": "About",
+	"Shop": "Shop",
+	"Cart": "Cart",
+	"Glasses Store": "Glasses Store",
+	"Sale": "Sale",
+	"Add to cart": "Add to cart",
+	"Language": "Language",
+	"Login": "Login",
+	"Email address": "Email address",
+	"We will never share your email with anyone else": "We will never share your email with anyone else.",
+	"Password": "Password",
+	"Submit": "Submit",
+	"Remember me": "Remember me",
+	"Private page": "Private page",
+	"Invalid credentials": "Invalid credentials",
+	"Logout": "Logout"
+}

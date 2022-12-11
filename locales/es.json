@@ -1,0 +1,26 @@
+{
+	"Welcome to": "Bienvenido a",
+	"Featured Ads": "Anuncios Destacados",
+	"Mouse": {
+		"one": "Ratón",
+		"other": "Ratones"
+	},
+	"Price": "Precio",
+	"thats an example": "Esto es un ejemplo",
+	"Home": "Home",
+	"About": "Nosotros",
+	"Cart": "Carrito",
+	"Glasses Store": "Tienda de gafas",
+	"Sale": "Oferta",
+	"Add to cart": "Añadir al carrito",
+	"Language": "Idioma",
+	"Login": "Iniciar sesión",
+	"Email address": "Dirección Email",
+	"We will never share your email with anyone else": "Nunca compartiremos tu email con nadie",
+	"Password": "Contraseña",
+	"Submit": "Enviar",
+	"Remember me": "Recuérdame",
+	"Private page": "Página privada",
+	"Invalid credentials": "Credenciales no válidas",
+	"Logout": "Cerrar sesión"
+}
