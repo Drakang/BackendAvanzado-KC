@@ -1,4 +1,3 @@
-# Usage
 ## Server Deployment Project
 
 Two proyects deployed at AWS(Amazon Web Services) using Nginx
@@ -7,6 +6,7 @@ Two proyects deployed at AWS(Amazon Web Services) using Nginx
 
 `React:`  http://44.211.140.248/
 
+# Usage
 ## First step, set your enviroment
 
 1. Download and install `Node` from `https://nodejs.org/`
