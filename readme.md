@@ -1,6 +1,6 @@
 ## Server Deployment Project
 
-Two proyects deployed at AWS(Amazon Web Services) using Nginx
+Two of my  proyects deployed at AWS(Amazon Web Services) using Nginx
  
 `NodeJs:` http://ec2-44-211-140-248.compute-1.amazonaws.com/
 
